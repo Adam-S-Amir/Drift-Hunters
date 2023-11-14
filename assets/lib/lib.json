@@ -1,6 +1,6 @@
 {
     "TOTAL_MEMORY": 1073741824,
-    "dataUrl": "./lib.data.unityweb",
+    "dataUrl": "data:application/octet-stream;base64,",
     "asmCodeUrl": "./lib.code.unityweb",
     "asmMemoryUrl": "./lib.memory.unityweb",
     "asmFrameworkUrl": "./lib.framework.unityweb",
